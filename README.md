@@ -5,7 +5,7 @@
     <title>Contenido</title>
 </head>
 <body>
-   <h1><b>Hola , estas son algunas de las redes donde subo </h1>
+   <h1><b>Hola , estas son algunas de las redes donde subo contenido</h1>
     <img src="https://media.tenor.com/6xxmTQ_LleUAAAAC/peepo-hello.gif">
     <ul>
         <li><a href="https://www.youtube.com/channel/UC4MuQY4mZRpV99ZFZRbCvAw">Canal de Youtube</a></li>
