@@ -1,9 +1,6 @@
 <!DOCTYPE html>
 <html lang="en">
-<head>
-    
-    <title>Contenido</title>
-</head>
+
 <body>
    <h1><b>Hola , estas son algunas de las redes donde subo contenido</h1>
     <img src="https://media.tenor.com/6xxmTQ_LleUAAAAC/peepo-hello.gif">
@@ -12,5 +9,6 @@
         <li><a href="https://www.twitch.tv/shisui71_">Canal de Twitch</a></li>
         <li><a href="https://open.spotify.com/user/o42m2ijd87bf8u7buwb09j6uh">Cuenta de Spotify</a></li>
     </ul>
+       
 </body>
 </html>
